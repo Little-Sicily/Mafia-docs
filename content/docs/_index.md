@@ -1,5 +1,18 @@
-+++
-title = 'Docs'
-date = 2024-06-03T22:27:18+02:00
-draft = true
-+++
+---
+title: Documentation
+next: first-page
+---
+
+This is a demo of the theme's documentation layout.
+
+## Hello, World!
+
+```go {filename="main.go"}
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```

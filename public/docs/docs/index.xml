@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Little Sicily&#39;s Gangster School – Documentation</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:1313/docs/docs/</link>
     <description>Recent content in Documentation on Little Sicily&#39;s Gangster School</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Demo Page</title>
-      <link>http://localhost:1313/docs/first-page/</link>
+      <link>http://localhost:1313/docs/docs/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/first-page/</guid>
+      <guid>http://localhost:1313/docs/docs/first-page/</guid>
       <description>
         
         
@@ -29,15 +29,15 @@
     </item>
     
     <item>
-      <title>Leaf Page</title>
-      <link>http://localhost:1313/docs/folder/leaf/</link>
+      <title>Folder</title>
+      <link>http://localhost:1313/docs/docs/folder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/folder/leaf/</guid>
+      <guid>http://localhost:1313/docs/docs/folder/</guid>
       <description>
         
         
-        &lt;p&gt;This page is under a folder.&lt;/p&gt;
+        &lt;p&gt;Pages can be organized into folders.&lt;/p&gt;
 
       </description>
     </item>
