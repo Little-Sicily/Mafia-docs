@@ -29,6 +29,20 @@
     </item>
     
     <item>
+      <title>Demo Page</title>
+      <link>http://localhost:1313/school/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/school/first-page/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A simple demo page.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Leaf Page</title>
       <link>http://localhost:1313/docs/folder/leaf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

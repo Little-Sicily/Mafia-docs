@@ -40,38 +40,42 @@ enableInlineShortcodes: true
 menu:
   main:
     - identifier: documentation
-      name: Little Sicily docs
-      pageRef: /docs
+      name: Startup School
+      pageRef: /school
       weight: 1
+    - identifier: ideas
+      name: Ideas
+      pageRef: /resources/ideas
+      weight: 2
+    - identifier: resources
+      name: Resources
+      pageRef: /resources
+      weight: 3
     - identifier: blog
       name: Blog
       pageRef: /blog
-      weight: 2
-    - identifier: ideas
-      name: Ideas
-      pageRef: /ideas
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: Twitter
-      weight: 5
+      weight: 6
       url: "https://x.com/donGiacobbe"
       params:
         icon: twitter
     - name: Website
-      weight: 6
+      weight: 7
       url: "https://littlesicily.pizza"
       params:
         icon: globe-alt
 
-  sidebar:
-    - identifier: more
-      name: More
-      params:
-        type: separator
-      weight: 1
+  # sidebar:
+  #   - identifier: more
+  #     name: More
+  #     params:
+  #       type: separator
+  #     weight: 1
 
 
 params:
