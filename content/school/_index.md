@@ -13,4 +13,9 @@ We will let you know once it's finished. In the meantime, feel free to steal som
 ![School is being built](school_wip.png)
 
 
-{{< card link="../" title="Go back" icon="arrow-left" >}}
+
+{{< cards >}}
+    {{< card link="../" title="Go back" icon="arrow-left" >}}
+{{< /cards >}}
+
+
