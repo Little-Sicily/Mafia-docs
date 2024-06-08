@@ -25,9 +25,12 @@
     <loc>http://localhost:1313/resources/</loc>
     <lastmod>2024-06-08T22:18:15+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/school/</loc>
+    <lastmod>2024-06-08T22:24:31+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-08T22:18:15+02:00</lastmod>
+    <lastmod>2024-06-08T22:24:31+02:00</lastmod>
   </url>
 </urlset>

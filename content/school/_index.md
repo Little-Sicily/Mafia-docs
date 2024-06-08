@@ -1,6 +1,5 @@
 ---
 title: Startup School
-draft: true
 toc: false
 ---
 
