@@ -19,5 +19,3 @@ up to the real **Mafioso**.
   {{< card link="resources/tools" title="Useful tools" icon="cube-transparent">}}
   {{< card link="blog" title="Letters from Don" icon="inbox-in">}}
 {{< /cards >}}
-
-
